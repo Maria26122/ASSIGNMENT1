@@ -1,30 +1,159 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-}#span1{
-color: coral;
 }
+
 .heading{
-    font-size: 40px;
+    font-size: 50px;
+    color: black;
+    margin-right: 100px;
+    border-image-slice: 1;
+
+    
+
 }
+
+#span1{
+color: coral;
+font-size: 50px;
+    margin-right:200px;
+
+
+}
+
 .container{
     display: flex;
 }
+
 .half-width{
-    width:50% ;
-    padding-left: 40px; 
+    width:60% ;
+    padding-left: px; 
  
  }
  .half-width img{
-     width: 30%;
+     width: 50%;
      padding-top: 10%;
  }
  .half-width p{
-     text-align: justify;
-     width:80% ;}
+     text-align:left;
+     width:50% ;}
      .second-section{
         display: flex;
      }
      #span2{
         color: coral;
      }
+     #no1
+     {
+        background-color:rgba(250, 72, 108, 0.998);
+        width:  15%;
+        padding: 5px 5px ;
+        text-align: center;
+        border-radius: 5px;
+        font-size: small;
+     }
+     #scroll{
+        font-size: small;
+     }
+     #align{
+        text-align:right;
+        font-weight: bold;
+        font-size: 40px;
+        color: black;
+     }
+     .half_width{
+        width: 30%;
+        margin: 10px 20px;
+        text-align: left;
+     }
+     
+    #image1{
+        width:20%;
+        background-color: dodgerblue;
+        border-radius: 20px;
+        margin-left: 100px;
+        margin-right: 10px;
+    padding-left: 20px;
+        
+    }
+    #image2{
+        width:20%;
+        background-color: darkviolet;
+        border-radius: 20px;
+        margin: 10px 10px; 
+        text-align: center;
+        
+    } 
+    #image3{
+        width:20%;
+        background-color:deeppink;
+        border-radius: 20px;
+        margin-left: 10px;
+        margin-right: 100px;
+        text-align: center;
+     }
+    section{
+    display: flex;
+    }
+    .first{
+        padding: 30px;
+    }
+   
+    
+    
+    .third-section{
+        display: flex;
+        margin-top: 50px;
+        
+    }
+     #image4{
+        margin-top: 40px;
+        margin-left: 300px;
+        width: 50%; }
+        
+     #no2{
+    background-color:rgba(250, 72, 108, 0.998) ;
+     width:  50%;
+    padding: 5px 5px ;
+    text-align: center;
+    border-radius: 5px;
+    font-size: small;
+}
+#develop{
+    margin-top: 20px;
+    width: 40%;
+    text-align: justify;
+    margin-right: 250px;
+}
+.fourth-section{
+    display: flex;
+    margin-top: 50px;
+
+}
+#community{
+    width: 30%;
+
+}
+#image5{
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 250px;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 50px;
+}
+#footer{
+    text-align: center;
+}
+.last{
+    background-color: black;
+    color: aliceblue;
+}
+.second-section{
+    margin-top: 50px;
+}
+div{
+    padding-left: 20px;
+}
