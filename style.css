@@ -1,0 +1,30 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}#span1{
+color: coral;
+}
+.heading{
+    font-size: 40px;
+}
+.container{
+    display: flex;
+}
+.half-width{
+    width:50% ;
+    padding-left: 40px; 
+ 
+ }
+ .half-width img{
+     width: 30%;
+     padding-top: 10%;
+ }
+ .half-width p{
+     text-align: justify;
+     width:80% ;}
+     .second-section{
+        display: flex;
+     }
+     #span2{
+        color: coral;
+     }
